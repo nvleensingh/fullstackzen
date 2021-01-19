@@ -1,0 +1,3 @@
+Java assignment 
+Q1 switch case only running once in while loop tried alot rest ok.
+
